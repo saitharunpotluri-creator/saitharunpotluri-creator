@@ -1,16 +1,17 @@
-## Hi there 👋
+## 💫 About Me:
 
-<!--
-**saitharunpotluri-creator/saitharunpotluri-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 3rd-year B.Tech Computer Science and Engineering student at Vasireddy Venkatadri Institute of Technology, strongly focused on software development and artificial intelligence. 
 
-Here are some ideas to get you started:
+**Core Computer Science & Programming**
+* Java, Operating Systems, Software Engineering, and DBMS.
+* Active in competitive programming and problem-solving on CodeChef.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Artificial Intelligence & Computer Vision**
+* Exploring foundation models, prompt engineering, and fine-tuning.
+* Expanding knowledge in computer vision analytics (NPTEL Computer Vision).
+* Researching and utilizing datasets for training AI models.
+
+**Projects & Automation**
+* Developing cryptographic discovery and threat detection tools for unidirectional traffic.
+* Building autonomous digital teammates and exploring automation tools like n8n.io.
+* Tech Stack: VS Code, GitHub Copilot, Vercel, Google Cloud Platform, GitLab Duo.
